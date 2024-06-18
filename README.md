@@ -10,18 +10,12 @@ The map feature allows users to visualize the location of each campground and ge
 One of the unique features of this website is its focus on user-generated content. By allowing users to add and review campgrounds, the site fosters a sense of community and encourages people to share their experiences with others. This creates a valuable resource for travelers, helping them find the best camping spots around the world.
 
 
-## Demo
-
-
-## Youtube Demo Link ▶️  https://youtu.be/GZHsrJlQma8
-
-[![](https://markdown-videos.deta.dev/youtube/GZHsrJlQma8)](https://youtu.be/GZHsrJlQma8)
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/Dipankar-Kumar-Singh/CamperWorld
+  git clone https://github.com/55garima/Camping_World
 ```
 
 Go to the project directory
